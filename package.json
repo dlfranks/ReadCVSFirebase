@@ -1,0 +1,15 @@
+{
+  "name": "readcsvfirebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Deana Franks",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "csv-parser": "^3.0.0"
+  }
+}
