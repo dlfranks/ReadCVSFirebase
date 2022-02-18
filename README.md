@@ -1,5 +1,6 @@
 # ReadCVSFirebase
 How to run:
-Got to the project directory
-npm restore
-npm test
+
+1. Got to the project directory
+2. npm restore
+3. npm test
